@@ -1,0 +1,12 @@
+{
+    "require-dev": {
+        "doctrine/lexer": "~1.0",
+        "phpunit/phpunit": "~4.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "KNorbert\\": "src/KNorbert"
+        }
+    }
+
+}
